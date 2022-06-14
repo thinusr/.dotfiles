@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Evernote
+Comment=Tame your work, organize your life
+Exec=/home/thinus/Applications/Evernote/Evernote-Beta-10.37.3-linux-ddl-beta-3394-0081becae3.AppImage %
+Icon=/home/thinus/Applications/Evernote/Evernote.svg
+Terminal=false
+Type=Application
+Categories=Office;
+MimeType=x-scheme-handler/obsidian;text/html;

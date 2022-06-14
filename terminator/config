@@ -1,0 +1,29 @@
+[global_config]
+  title_transmit_fg_color = "#2E3440"
+  title_transmit_bg_color = "#88C0D0"
+  title_receive_fg_color = "#2E3440"
+  title_receive_bg_color = "#8FBCBB"
+  title_inactive_fg_color = "#D8DEE9"
+  title_inactive_bg_color = "#4C566A"
+[keybindings]
+  zoom_in = <Primary>equal
+  paste = <Primary>v
+[profiles]
+  [[default]]
+    background_color = "#2E3440"
+    background_darkness = 0.85
+    background_type = transparent
+    cursor_color = "#D8DEE9"
+    foreground_color = "#D8DEE9"
+    show_titlebar = False
+    palette = "#3B4252:#BF616A:#A3BE8C:#EBCB8B:#81A1C1:#B48EAD:#88C0D0:#E5E9F0:#4C566A:#BF616A:#A3BE8C:#EBCB8B:#81A1C1:#B48EAD:#8F  BCBB:#ECEFF4"
+[layouts]
+  [[default]]
+    [[[window0]]]
+      type = Window
+      parent = ""
+      size = 900, 900
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+[plugins]

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Obsidian
+Comment=Second Brain
+Exec=/home/thinus/Applications/Obsidian/Obsidian-0.14.6.AppImage %
+Icon=/home/thinus/Applications/Obsidian/obsidian.svg
+Terminal=false
+Type=Application
+Categories=Office;
+MimeType=x-scheme-handler/obsidian;text/html;

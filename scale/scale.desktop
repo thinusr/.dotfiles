@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Scale
+Comment=Add resolution to X
+Exec=/home/thinus/Applications/scale/scale.sh %
+Icon=/home/thinus/Applications/scale/scale.svg
+Terminal=false
+Type=Application
+Categories=Utilities;
+
+

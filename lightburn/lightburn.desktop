@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=LightBurn
+Comment=Better Software For Laser Cutters
+Exec=/home/thinus/Applications/LightBurn/LightBurn %F
+Icon=/home/thinus/Applications/LightBurn/LightBurn.png
+Terminal=false
+Type=Application
+Categories=Graphics;

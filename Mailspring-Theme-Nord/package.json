@@ -1,0 +1,13 @@
+{
+  "name": "ui-mailspring-nord",
+  "title": "Mailspring Nord",
+  "displayName": "Nord",
+  "theme": "ui",
+  "version": "0.1.0",
+  "description": "A nordic theme for mailspring",
+  "license": "MIT",
+  "engines": {
+    "mailspring": "*"
+  }
+}
+
