@@ -14,9 +14,12 @@
     background_darkness = 0.85
     background_type = transparent
     cursor_color = "#D8DEE9"
+    font = Inconsolata Semi-Bold 15
     foreground_color = "#D8DEE9"
     show_titlebar = False
+    scrollbar_position = hidden
     palette = "#3B4252:#BF616A:#A3BE8C:#EBCB8B:#81A1C1:#B48EAD:#88C0D0:#E5E9F0:#4C566A:#BF616A:#A3BE8C:#EBCB8B:#81A1C1:#B48EAD:#8F  BCBB:#ECEFF4"
+    use_system_font = False
 [layouts]
   [[default]]
     [[[window0]]]
