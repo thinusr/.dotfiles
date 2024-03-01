@@ -517,7 +517,7 @@ alias personal='cp -Rf /personal/* ~'
 # reporting tools - install when not installed
 #neofetch
 #screenfetch
-alsi -l -u --bold=red --normal=red --file-logo
+alsi -l -u --bold=red --normal=red
 #paleofetch
 #fetch
 #hfetch
